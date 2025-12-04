@@ -30,3 +30,18 @@ section {
     padding-top: 100px;
     padding-bottom: 100px;
 }
+
+.backgroundсlass::before {
+    content: "";
+    background-image: url('images/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+.header-image {
+    position: absolute;
+    height: 525px;
+    top: 55px;
+    right: -270px;
+}
