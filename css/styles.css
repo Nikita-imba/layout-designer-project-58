@@ -81,3 +81,22 @@ header {
 #preview-image h2 {
     margin-bottom: 30px;
 }
+
+#navigation h2 {
+    font-size: 52px;
+}
+
+.card {
+    padding: 24px;
+}
+
+.cards-number {
+    padding-bottom: 40px;
+    font-size: 64px;
+    font-family: Neucha;
+    line-height: 1;
+}
+
+#navigation {
+    padding-top: 200px;
+}
